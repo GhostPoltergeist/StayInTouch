@@ -90,9 +90,11 @@ pip install EmailSender-GhostPoltergeist
 ```
 
 ## POWERED BY:
-[!] [Jython](https://www.jython.org/) Library
-[!] Java & Python Integration
-[!] FlatLaf (Look and Feel)
+[Jython](https://www.jython.org/) Library
+```
+Java & Python Integration
+FlatLaf (Look and Feel)
+```
 
 
 ## Contributions
