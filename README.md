@@ -24,7 +24,7 @@ Before using the EmailSender script, ensure you have the following prerequisites
 
 ## Usage
 
-1. Open the `config/SENDET.txt` file and provide your email account details:
+1. Open the `config/SENDER.txt` file and provide your email account details:
 
 ```
 # Email Account Configuration
@@ -77,7 +77,7 @@ Generate an Application-Specific Password:
 ```
 
 ## Use the Application-Specific Password in your Code
-In ASENDER.txt, replace the 2nt line with the 
+In SENDER.txt, replace the 2nt line with the 
 generated application-specific password you obtained from Google:
 ```python
 # Remove quotation marks !!
