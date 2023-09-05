@@ -90,11 +90,10 @@ pip install EmailSender-GhostPoltergeist
 ```
 
 ## POWERED BY:
-```
-[!] Jython Library
+[!] [Jython](https://www.jython.org/) Library
 [!] Java & Python Integration
 [!] FlatLaf (Look and Feel)
-```
+
 
 ## Contributions
 Contributions to the EmailSender Python script are welcome! If you find any issues or want to enhance its features, feel free to create a pull request.
