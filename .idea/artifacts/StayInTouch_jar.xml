@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StayInTouch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StayInTouch_jar</output-path>
+    <root id="archive" name="StayInTouch.jar">
+      <element id="module-output" name="StayInTouch" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.1.1/flatlaf-3.1.1.jar" path-in-jar="/" />
+      <element id="library" level="application" name="Python 3.11 (StayInTouch) interpreter library" />
+    </root>
+  </artifact>
+</component>
