@@ -40,15 +40,13 @@ Generate an Application-Specific Password:
 
 2. In the "Security" section, find the "Signing in to Google" option.
 
-3. Click on "App passwords."
+3. Enable and Setup the 2-Step Verification first then Click on "App passwords."
 
-4. Select "Mail" and "Other (Custom name)" from the dropdowns.
+5. Enter a custom name for your app, like "StayInTouch"
 
-5. Enter a custom name for your app, like "EmailSender."
+6. Click the copy the password generated "e.g: zxcy zxcy zxcy zxcy"
 
-6. Click the "Generate" button.
-
-7. Google will provide you with a generated password. Copy this password.****
+7. Now use that app password as your password for email sending. 
 ```
 
 ## Use the Application-Specific Password in your Code
